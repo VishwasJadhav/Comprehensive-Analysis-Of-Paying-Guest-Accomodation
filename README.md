@@ -1,2 +1,2 @@
-# Comprehensive-Analysis-Of-Paying-Guest-Accomodation
+# Comprehensive Analysis Of Paying Guest Accomodation
 .
